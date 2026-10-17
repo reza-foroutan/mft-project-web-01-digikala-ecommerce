@@ -1,0 +1,26 @@
+.main-header-top {
+  width: 100%;
+  height: 60px;
+  .main-header-top-link {
+    width: 100%;
+    display: block;
+    .header-top-link-wrapper {
+      width: 100%;
+      height: 60px;
+      background-color: rgba(0, 0, 0, 0.04);
+      .header-top-link-wrapper-box {
+        width: 100%;
+        height: 60px;
+        line-height: 0px;
+        picture {
+          img {
+            width: 100%;
+            height: 60px;
+            display: inline-block;
+            object-fit: cover;
+          }
+        }
+      }
+    }
+  }
+}

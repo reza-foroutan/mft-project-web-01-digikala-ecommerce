@@ -1,0 +1,17 @@
+@import url("./header-middle-notification/main-header-middle-notification.css");
+@import url("./header-middler-login-box/main-header-middler-login-box.css");
+@import url("./header-middle-cart-box/main-header-middle-cart-box.css");
+.header-middle-cart-box-login-box-basket-box {
+  width: 100%;
+  height: 44px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  .header-middle-cart-box-login-box-basket-box-wrapper {
+    width: auto;
+    height: 44px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  }
+}

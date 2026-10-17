@@ -1,0 +1,13 @@
+.wrapper {
+  width: 100%;
+  position: relative;
+}
+
+.divider {
+  width: 1px;
+  height: 24px;
+  display: block;
+  background-color: var(--color-neutral-200);
+  margin-left: 12px;
+  margin-right: 12px;
+}

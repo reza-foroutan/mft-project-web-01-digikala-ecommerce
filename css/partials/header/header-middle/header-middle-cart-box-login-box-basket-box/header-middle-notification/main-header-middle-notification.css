@@ -1,0 +1,29 @@
+.header-middle-notification {
+  padding: 8px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  margin-left: 12px;
+  position: relative;
+  -webkit-tap-highlight-color: #0000;
+  text-decoration: none;
+  font-weight: 900;
+  svg {
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    flex-shrink: 0;
+
+    path {
+      color: var(--dds-mode-ui-fixed-neutral-80);
+      font-weight: 900;
+    }
+  }
+}

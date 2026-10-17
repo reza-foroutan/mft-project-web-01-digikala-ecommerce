@@ -1,0 +1,5 @@
+@import url("./css-reset/css-reset.css");
+@import url("./fonts/fa/iranYekan.css");
+@import "./globals-variables/globals-variables.css";
+@import url("./custome-themes/main-custome-themes.css");
+@import url("./settings.css");

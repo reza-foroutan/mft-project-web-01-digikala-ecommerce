@@ -1,0 +1,17 @@
+:root {
+  --font-family: "Yekan";
+  --font-number: "IranYekan";
+  --color-neutral-000: #fff;
+  --window-inner-height: 338px;
+  --color-neutral-100: #f0f0f1;
+  --color-secondary-700: #0d4485;
+  --color-neutral-600: #62666d;
+  --dds-mode-ui-content-4: #a2a2a2;
+  --dds-mode-ui-fixed-neutral-80: #333;
+  --color-neutral-200: #e0e0e2;
+  --color-button-black: #0c0c0c;
+  --spacing-base: 4px;
+  --color-hint-text-caution-rgb: 245, 127, 23;
+  --color-neutral-700: #3f4064;
+  --color-hint-text-caution: #f57f17;
+}
